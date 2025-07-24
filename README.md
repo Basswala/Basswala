@@ -55,18 +55,6 @@ Basics of Docker, `MLflow`, `FastAPI`, `AWS S3`, `Azure ML`, Data Versioning
 
 ---
 
-## 🧠 Learning & Certifications
-
-- 📚 **Current Courses:**
-  - [ ] Machine Learning – Andrew Ng (Coursera)
-  - [ ] Python for Data Science (Udemy – Krish Naik)
-  - [ ] AI for Everyone (DeepLearning.AI)
-
-- 🛠️ **In Progress:**
-  - 90-Day GitHub Portfolio Development Challenge
-  - ML Project: Audio Feature Clustering & Recommender (Spotify)
-
----
 
 ## 🔗 Let's Connect
 
