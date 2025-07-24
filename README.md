@@ -1,4 +1,4 @@
-<h1 align="center">Mayank Gulati | Data Science & AI Enthusiast</h1>
+<h1 align="center">Mayank Gulati | Data Science & AI </h1>
 <p align="center">
   <i>Exploring the intersection of data, intelligence, and decision-making through modern machine learning systems</i>
 </p>
