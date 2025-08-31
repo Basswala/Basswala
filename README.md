@@ -26,12 +26,12 @@
 EDA, Feature Engineering, Regression & Classification, Clustering, PCA, Model Evaluation Metrics
 
 **NLP & AI**  
-Tokenization, TF-IDF, Word Embeddings, Transformers, `spaCy`, `HuggingFace`, `LangChain` (beginner)
+Tokenization, TF-IDF, Word Embeddings, Transformers, `spaCy`, `HuggingFace`, `LangChain`
 
 **Tooling & Productivity**  
 Jupyter, VS Code, Git/GitHub, Streamlit, Google Colab, Markdown
 
-**Cloud & MLOps (Learning Phase)**  
+**Cloud & MLOps**  
 Basics of Docker, `MLflow`, `FastAPI`, `AWS S3`, `Azure ML`, Data Versioning
 
 ---
