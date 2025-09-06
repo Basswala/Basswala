@@ -7,7 +7,7 @@
 
 ## 🔍 Profile Summary
 
-- 🎓 Transitioned from a formal background in Music Performance to Data Science & AI — combining creative intuition with analytical precision.
+- 🎓 From a formal background in Music Performance to Data Science & AI — combining creative intuition with analytical precision.
 - 🧠 Focused on statistical modeling, machine learning, and data-driven insights to solve real-world problems.
 - 📊 Proficient in exploratory data analysis (EDA), predictive modeling, natural language processing (NLP), and model deployment workflows.
 - ☁️ Exploring MLOps and cloud-native tools to build production-grade ML pipelines.
