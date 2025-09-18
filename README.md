@@ -1,118 +1,115 @@
-# 👋 Hi there, I'm Mayank Gulati
+```markdown
+# 👋 Hi, I'm Mayank Gulati
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+%26+AI+Systems;Python+%7C+NLP+Enthusiast;Building+Data-Driven+Solutions" alt="Typing SVG" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Basswala&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/Basswala?style=social)  
+![Top Language](https://img.shields.io/github/languages/top/Basswala?color=orange)  
+![Repos Badge](https://img.shields.io/badge/Public_Repos-Data_Science_Projects-blueviolet)
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-
-### AI & NLP
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+🚀 **Entrepreneur | Data Scientist | AI Engineer**  
+📍 Based in Melbourne, Australia 🇦🇺  
+🎯 Exploring intelligent systems through advanced AI agent engineering, MLOps, and data science.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 What I Do
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basswala&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basswala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basswala&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
-</div>
+| 💡 Area | ✅ What I’ve Done |
+|--------|----------------|
+| **🧠 Data Science & AI** | Python, Scikit-learn, Pandas, LangChain, LlamaIndex, CrewAI, LangGraph, and AutoGen. |
+| **🤖 AI Agents** | Completed 24 advanced AI agent courses (CrewAI, LangGraph, Bedrock, DsPy, LlamaIndex, AutoGen, Anthropic Claude, etc.). |
+| **📊 Machine Learning** | Model training, optimization, interpretability, RAG pipelines. |
+| **🧠 Prompt Engineering** | Function calling, tool-use, prompt eval frameworks, Claude, OpenAI, LangChain agents. |
+| **⚙️ MLOps & Tooling** | Docker, MLflow, DVC, GitHub Actions, Streamlit, and FastAPI integrations. |
 
 ---
 
-## 👋 About Me
+## 🧰 Tech Stack
 
-🎓 **From Music to Data Science** - I transitioned from a formal background in Music Performance to Data Science & AI, combining creative intuition with analytical precision.
-
-🧠 **My Focus** - I'm passionate about statistical modeling, machine learning, and extracting data-driven insights to solve real-world problems.
-
-📊 **Core Skills** - Proficient in exploratory data analysis (EDA), predictive modeling, natural language processing (NLP), and model deployment workflows.
-
-☁️ **Current Learning** - Exploring MLOps and cloud-native tools to build production-grade ML pipelines.
-
-🌍 **Location & Availability** - Based in Melbourne, Australia — open to global, hybrid, or fully remote opportunities.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-blue?style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
 ## 🚀 Featured Projects
 
-> 📌 **Pin your top repositories to showcase your best work!**
-> 
-> To pin repositories:
-> 1. Go to your profile page
-> 2. Click "Customize your pins" 
-> 3. Select up to 6 repositories to highlight
-
-### 🔥 Current Highlights:
-- **🤖 Modern MLOps Pipeline** - Production-ready ML workflow implementation
-- **📈 Netflix EDA Project** - Comprehensive data analysis and visualization
-- **🌲 Algerian Forest Fires Regression** - Predictive modeling for environmental data
-- **🍷 Red Wine EDA Project** - Quality prediction through statistical analysis
-- **💬 RAG Chatbot** - Retrieval-Augmented Generation implementation
+| Project | Description | Demo |
+|--------|-------------|------|
+| 🎵 Spotify Mood Recommender | Audio clustering project using Spotify API | ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI0cW4ydjRkNnBvYzZ0aXlsYmJwdDgzOGV4Z2IxdW1qN3M1dm5kZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fn1BhmFQjUZOaj0QhD/giphy.gif) |
+| 📚 RAG Stack with LangChain | End-to-end retrieval QA app with Chroma DB | ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5zY3Z3M3AydTFvN3FvMHJ5d3JxY3UzZG95dm1jMGd4NDFyMzF2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sIIkY7aRKMZKcoF1sw/giphy.gif) |
+| 🤖 Claude-Powered Tool Agent | Function-calling agent using Anthropic's Claude | ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q5cmZ5emk3MWQxNHoyNjh5aHoxZW44Ym16aGhiMHpjYjZsMmN1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif) |
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-- 🔍 Deepening understanding of model selection, bias-variance tradeoff, and hyperparameter tuning
-- 🗣️ Expanding practical applications of NLP and unsupervised learning
-- 🏗️ Studying software engineering best practices for reproducible ML systems
-- 🐍 Sharpening Python fluency through real-world problem-solving and clean code principles
-- ☁️ Gradually integrating cloud infrastructure and version-controlled pipelines
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gulati1993)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayank.gulati99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Basswala)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basswala&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basswala&layout=compact&theme=radical" width="47%" />
+</p>
 
 ---
 
-<div align="center">
-  <i>⚙️ Open to roles in data science, applied ML, or AI research assistantships — especially where curiosity meets impact.</i>
-</div>
+## 🔥 GitHub Streak
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Basswala&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Basswala&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+</p>
 
-</div>
+---
+
+## 📅 Activity Timeline
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📰 Latest Medium Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📚 Books I'm Reading / Recommend
+
+- *The Almanack of Naval Ravikant* – Eric Jorgenson  
+- *Deep Learning with Python* – François Chollet  
+- *Atomic Habits* – James Clear  
+- *Principles* – Ray Dalio  
+- *Build* – Tony Fadell  
+
+> *"Read what you love until you love to read."* – Naval Ravikant
+
+---
+
+## 📜 Certifications & Courses
+
+- 📘 **Machine Learning Specialization – Andrew Ng (Coursera)**
+- 🐍 **Python for Data Science & Machine Learning Bootcamp – Udemy**
+- 🔁 **Complete MLOps Bootcamp – Udemy**
+- 🤖 **AI Agents: 24 Hands-on Courses** (CrewAI, Bedrock, LangGraph, Claude, DsPy, LlamaIndex, etc.)
+- 💻 **Foundations of GitHub (GitHub Learn)**
+- 🎯 **Prompt Engineering for Developers – DeepLearning.AI**
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mayankgulati11/) – Let’s connect!
+- 🖥️ [GitHub](https://github.com/Basswala) – Explore my code and ongoing experiments
+- 🧠 [Medium](https://medium.com/@basswala) – Essays on data, creativity & AI (coming soon)
+
+---
+
+> "Creativity is intelligence having fun." – Albert Einstein
+
+> "Play long-term games with long-term people. The only way to truly learn anything is by doing. Yes, listen to guidance. But don't wait." – Naval Ravikant
+```
