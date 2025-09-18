@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Mayank Gulati**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+%26+AI+Engineer"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-%7C%20ML%20%26%20AI%20Engineer-00F7FF?style=for-the-badge&logo=python&logoColor=white&color=blueviolet"/>
 </p>
 
 
