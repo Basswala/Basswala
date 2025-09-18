@@ -116,7 +116,7 @@ If you're building cool stuff in:
 📬 [LinkedIn](https://www.linkedin.com/in/mayankgulati11/)  
 🧠 [Medium](https://medium.com/@basswala) – Essays on data, creativity & AI  
 🌍 [GitHub](https://github.com/Basswala)
-📧 [Email]: (mayank.gulati99@gmail.com)  
+📧 [Email] (mayank.gulati99@gmail.com)  
 
 
 ---
