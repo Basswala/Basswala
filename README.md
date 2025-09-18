@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <a href="www.linkedin.com/in/mayank-gulati1993/">
+  <a href="https://www.linkedin.com/in/mayank-gulati1993/">
     <img src="https://img.shields.io/badge/-Mayank%20Gulati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-gulati1993/"/>
   </a>
   <a href="mailto:mayank.gulati99@gmail.com">
