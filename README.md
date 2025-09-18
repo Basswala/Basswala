@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+%26+AI+Engineer"/>
 </p>
 
+
 ---
 
 <p align="center">
