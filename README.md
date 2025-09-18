@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/mayank-gulati1993/">
-    <img src="https://img.shields.io/badge/-Mayank%20Gulati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayankgulati11/"/>
+    <img src="https://img.shields.io/badge/-Mayank%20Gulati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-gulati1993/"/>
   </a>
-  <a href="mailto:mayank@example.com">
+  <a href="mailto:mayank.gulati99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Basswala">
@@ -112,14 +112,6 @@ If you're building cool stuff in:
 - 🔬 Research Workflows
 - 💡 Automation and Experiments
 
-...or just want to jam on ideas, hit me up!
-
-📬 [LinkedIn](www.linkedin.com/in/mayank-gulati1993/)  
-🧠 [Medium](https://medium.com/@basswala) – Essays on data, creativity & AI  
-🌍 [GitHub](https://github.com/Basswala)
-📧 [Email] (mayank.gulati99@gmail.com)  
-
-
----
+___
 
 > "Play long-term games with long-term people. The only way to truly learn anything is by doing. Yes, listen to guidance. But don't wait." – Naval Ravikant
