@@ -113,3 +113,4 @@
 
 > "Play long-term games with long-term people. The only way to truly learn anything is by doing. Yes, listen to guidance. But don't wait." – Naval Ravikant
 ```
+
