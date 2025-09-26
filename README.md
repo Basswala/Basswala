@@ -39,7 +39,7 @@ Founder Interests:
 
 ---
 
-## 🔥 Tech Arsenal
+## 🔥 Tech 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,github,vscode,jupyter,mysql,postgres,figma&perline=8"/>
