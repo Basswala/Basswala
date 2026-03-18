@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Mayank Gulati**
+**Mayank Gulati**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Scientist-%7C%20ML%20%26%20AI%20Engineer-00F7FF?style=for-the-badge&logo=python&logoColor=white&color=blueviolet"/>
