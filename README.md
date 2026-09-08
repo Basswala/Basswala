@@ -23,8 +23,8 @@
   <a href="https://x.com/mayankgulati99">
     <img src="https://img.shields.io/badge/X-@mayankgulati99-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/basswala/">
-    <img src="https://img.shields.io/badge/Instagram-@basswala-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/i.mayank.gulati/">
+    <img src="https://img.shields.io/badge/Instagram-@i.mayank.gulati-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:mayank.gulati99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -116,4 +116,4 @@ I am always interested in discussing:
 - GTM Engineering, Autonomous Growth Engines, and GEO/AEO
 - Creative Direction, Filmmaking, and Digital Product Design
 
-Connect on [LinkedIn](https://www.linkedin.com/in/mayank-gulati1993/), follow on [X (@mayankgulati99)](https://x.com/mayankgulati99) and [Instagram (@basswala)](https://www.instagram.com/basswala/), or reach out directly at **mayank.gulati99@gmail.com**.
+Connect on [LinkedIn](https://www.linkedin.com/in/mayank-gulati1993/), follow on [X (@mayankgulati99)](https://x.com/mayankgulati99) and [Instagram (@i.mayank.gulati)](https://www.instagram.com/i.mayank.gulati/), or reach out directly at **mayank.gulati99@gmail.com**.
